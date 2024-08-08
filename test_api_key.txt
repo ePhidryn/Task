@@ -1,0 +1,2 @@
+This is a test file containing an API key:
+API_KEY = "AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI"

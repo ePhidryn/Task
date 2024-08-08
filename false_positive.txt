@@ -1,0 +1,2 @@
+This is a test file that should not trigger any detections:
+EXAMPLE_KEY = "This is not a real key or secret"

@@ -1,0 +1,8 @@
+sources:
+- connection:
+    '@type': type.googleapis.com/sources.S3
+    cloudEnvironment: {}
+  name: S3
+  scanPeriod: 12h
+  type: SOURCE_TYPE_S3
+  verify: true

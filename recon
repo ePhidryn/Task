@@ -1,0 +1,24 @@
+{
+  "google_api_key": "AIzaSyDWkIL8qGQo4MnrLmwfLYl6raS3NoOXEp8",
+  
+  "rsa_private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpAIBAAKCAQEAx4UbaDzY5xjW6hc9jwN0mX33XpTDVW9WqHp5AKaRbtAC3DqX\nIXFMPgw3K45jxRb93f8tv9vL3rD9CUG1Gv4FM+o7ds7FRES5RTjv2RT/JVNJCoqF\nol8+ngLqRZCyBtQN7zYByWMRirPGoDUqdPYrj2yq+ObBBNhg5N+hOwKjjpzdj2Ud\n1l7R+wxIqmJo1IYyy16xS8WsjyQuyC0lL456qkd5BDZ0Ag8j2X9H9D5220Ln7s9i\noezTipXipS7p7Jekf3Ywx6abJwOmB0rX79dV4qiNcGgzATnG1PkXxqt76VhcGa0W\nDDVHEEYXjFQlLliq0/Iq9+cqR5tNNayQxBp3cQIDAQABAoIBAQCYqgsRCvW6EKLo\n-----END RSA PRIVATE KEY-----",
+  
+  "ssh_dsa_private_key": "-----BEGIN DSA PRIVATE KEY-----\nMIIBugIBAAKBgQCMq5TeyNZ9qQHE4G4Z9ZhPd0k5vwznr6IzFFj3RTy3QHitO6jF\nXcw26oo6EPc7o2RcHzDuH5vvkP4Pt88+oXzZoTjeU1ZM84qrKOi9XP2D7dT3Qx/S\nJl0Dvd9R93anFjMn0iLM3Wwi1xzhwtHB2iBVXPoFH7BYsEOFZEZSb8bB+QIVAK1b\nWnlxGz+zq7M8ITKVxd4wmnpRAoGAPBoKkHNwX3Ynz2LW8HzE9z0Zz6OE+kpj1XuU\n-----END DSA PRIVATE KEY-----",
+  
+  "ssh_ec_private_key": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIKBZxu1YaLKnS3QEpQlODB0/3mO8Y2c7m8bz5BRzWbRdoAoGCCqGSM49\nAwEHoUQDQgAEwCQ0U5XGSFiL3nJ1hRZiTsyqY1ePJ/yYDYpnw/DPH4YepGZDGSrl\nYlHbr4U0nP2/mCrVyG524AEjPOW3ZJ9yNw==\n-----END EC PRIVATE KEY-----",
+  
+  "gcp_service_account": {
+    "type": "service_account",
+    "project_id": "your-project-id",
+    "private_key_id": "1234abcd5678efgh9012ijkl3456mnop7890qrst",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9hSLuLFWBbtyW\n-----END PRIVATE KEY-----\n",
+    "client_email": "your-service-account@your-project-id.iam.gserviceaccount.com",
+    "client_id": "123456789012345678901",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/your-service-account%40your-project-id.iam.gserviceaccount.com"
+  },
+  
+  "google_oauth_access_token": "ya29.a0AfH6SMBx-CqZg3cYMK_lVi75tkhuYZjdhx8d_uKIkZuNZ_xdlZdURdwlGkgYBFJD7IYhO1L_i5n69yg3xMiEZ9ge2OfATbTWuOq0uNF03QM_wD3E6GgYReDr_bM8-YJyqbnTR7AOLehy-DVoVpR5FJCNQPE"
+}

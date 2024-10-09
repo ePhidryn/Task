@@ -1,0 +1,24 @@
+{
+  "google_api_key": "AIzaSyA1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q",
+  
+  "rsa_private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpQIBAAKCAQEA1oQNchOvnV+cP+eNKCHmW2qW2mQuFNSr+kJ+xc/sS93GWpVG\nO5lZVHy+lYqHQ1uxrJFLEBWV2LbJB/tg9W9LXTrIDLADwmwpGIxivPPLlI/ZeL1x\nnxpmCtW9Jmb9ZiZrYfXEL7CwEDHXORiH/RCd9Jmnn5SG+K9s1Vb3bUNmEcRy6ypo\nDfG9Scp7H9Tt+Rj6AJkSPVwZKS1OMGWtdivmGJfvDf3wGl/W8m3UH7Cxb7XHX1Qo\n3R0IsmAA+4b2AqhWWwRCDc7mTGAfZEqkDKB1/RCQ+A4cK7+XBEkNBzI3ybmIbWPf\n8MWn7MbzN/GoPnxu6Vz9LWtFojhhsZitvC+qkwIDAQABAoIBAQDEgvgtIPQpzGmW\n-----END RSA PRIVATE KEY-----",
+  
+  "ssh_dsa_private_key": "-----BEGIN DSA PRIVATE KEY-----\nMIIBuwIBAAKBgQCc4BcArUmK4xBb5bPLt5gdUo1Cm/P7qVYj2KDHfCfJIxUUq7u3\nCQwNDL16P9I91MctKQ/RDl8b6P7qX+uzKYxQZh9JpM3k6rGU2KM1jYXDKGbS+ZwW\njjlAB74u2VW5Ke+XMHslRCOrLHkJxQGQ7JRZ5i4JiACbI4bXhHYpEeU1xwIVAP4e\nBBXTQwlQ+XbgJ0cLx3kgQUfdAoGAZhfA5JbRNyPR0+QFzfaWUgLZFCx4JfNMvnKp\n-----END DSA PRIVATE KEY-----",
+  
+  "ssh_ec_private_key": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIJge+lj/7uQ1/e1kHU6e2Hg3yvRuJZvDT5FBmxPV76gloAoGCCqGSM49\nAwEHoUQDQgAEbB/t1yjzRoGqxRfY+p8w2sN6P9Ny7zc4Yyb8NxwF8E56RYJqRt9J\nXVpx6Bq+e72BkWIUMYIjQ4vxQwTfkjGXiQ==\n-----END EC PRIVATE KEY-----",
+  
+  "gcp_service_account": {
+    "type": "service_account",
+    "project_id": "test-project-2023",
+    "private_key_id": "qwer5678tyui9012asdf3456ghjk7890zxcv1234",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7hoRY0RI2tqWK\n-----END PRIVATE KEY-----\n",
+    "client_email": "test-service-account@test-project-2023.iam.gserviceaccount.com",
+    "client_id": "123456789012345678901",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-service-account%40test-project-2023.iam.gserviceaccount.com"
+  },
+  
+  "google_oauth_access_token": "ya29.c.b0AXv0zTOh2xM3Lk9_RmN6OvBxE9jF0hPqRsTuVwXyZ2A3BcDeFgHiJkLmNoPqRsTuVwXyZ0123456789aBcDeFgHiJkLmNoP"
+}
